@@ -21,7 +21,7 @@ input {
 }
 .item {
   display: flex;
-  background-image: url(../img/_a7d8ff82-1b80-4706-8a5a-44a616608489.jpg);
+  background-image: url("../img/_a7d8ff82-1b80-4706-8a5a-44a616608489.jpg");
   background-position: center;
   background-size: contain;
   width: 100%;
